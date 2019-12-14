@@ -2,10 +2,10 @@
   "name": "hot-webpack-example",
   "version": "1.0.0",
   "description": "",
-  "author": "Keith Lazuka",
+  "author": "Samuel Norris",
   "repository": {
     "type": "git",
-    "url": "https://github.com/klazuka/example-elm-hot-webpack"
+    "url": "https://github.com/sampnorris/elm-simple"
   },
   "license": "ISC",
   "scripts": {
